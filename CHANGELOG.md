@@ -16,6 +16,9 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### New features
 
+* `jj git push` can now be configured to ask for confirmation before pushing
+  changes to a remote using `git.confirm-before-push`.
+
 ### Fixed bugs
 
 ## [0.46.0] - 2026-10-07
